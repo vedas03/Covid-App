@@ -5,7 +5,8 @@ A new Flutter application.
 ## Getting Started
 
 ![](https://github.com/vedas03/Covid-App/blob/master/screenshots/Screenshot%20(150).png?raw=true)
-
+![](https://github.com/vedas03/Covid-App/blob/master/screenshots/Screenshot%20(152).png?raw=true)
+![](https://github.com/vedas03/Covid-App/blob/master/screenshots/Screenshot%20(153).png?raw=true)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
