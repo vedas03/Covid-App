@@ -1,6 +1,6 @@
-# covidextra
+# COVID-19 Tracker APP
 
-A new Flutter application.
+
 
 
 ## To Test the APP you can install the APK file in the above repository
