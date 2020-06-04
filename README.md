@@ -4,7 +4,7 @@ A new Flutter application.
 
 ## Getting Started
 
-![alt text]https://github.com/vedas03/Covid-App/blob/master/screenshots/Screenshot%20(150).png?raw=true
+![](https://github.com/vedas03/Covid-App/blob/master/screenshots/Screenshot%20(150).png?raw=true)
 
 This project is a starting point for a Flutter application.
 
